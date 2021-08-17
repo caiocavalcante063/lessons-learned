@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(253, 251, 251);
+    font-family: Lato;
+    color: #212427;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 0px;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #2fc18c;;
+    width: 100%;
+    text-align: center;
+}
+
+#minha_foto {
+    width: 110px;
+    border-radius: 50%;
+}
+
+#conteudo-principal {
+    margin-top: 100px;
+    text-align: center;
+}
+
+#barra-lateral {
+    margin-top: 1em;
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    margin-left: 40px;
+    border-left: #212427 solid 1.5px;
+    padding-left: 20px;
+}
+
+#linkedin-img {
+    width: 50px;
+}
+
+#artigos {
+    width: 800px;
+    text-align: justify;
+    display: inline-block;
+}
+
+#rodape {
+    margin-top: 45px;
+    display: block;
+    text-align: center;
+    background-color: rgb(241, 241, 241);
+    height: 81.28px;
+}
+
+#lista1, #lista2 {
+    display: inline-block;
+    padding: 10px;
+}
+
+nav {
+   padding-top: 20.64px;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+#about {
+    text-align: justify;
+}
